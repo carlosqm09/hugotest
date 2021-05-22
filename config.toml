@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://carlosqm09.github.io/hugotest"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
